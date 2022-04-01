@@ -22,7 +22,7 @@ const APP_SHELL = [
 const APP_SHELL_INMUTABLE = [
     'https://fonts.googleapis.com/css?family=Quicksand:300,400',
     'https://fonts.googleapis.com/css?family=Lato:400,300',
-    'https://use.fontawesome.com/releases/v5.3.1/css/all.css',
+    'https://use.fontawesome.com/releases/v5.15.5/css/all.css',
     'js/libs/jquery.js',
     'css/animate.css'
 ];
